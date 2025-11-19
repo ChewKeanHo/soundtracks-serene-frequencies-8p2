@@ -8,11 +8,11 @@ soundtrack for future video production use. Here is another variant.
 ```
 #electronicmusic #soundtrack #chillwave #instrumental #ambient
 
-  File: Audios/Serene-Frequencies-8-point-2.mp3
+  File: Audios/08_Serene-Frequencies-8p2.mp3
   Size: 5916672         Blocks: 11560      IO Block: 4096   regular file
-Access: 2025-11-04 11:27:05.606176703 +0800
+Access: 2025-11-18 12:57:53.867048770 +0800
 Modify: 2025-11-04 11:27:16.026214931 +0800
-Change: 2025-11-04 11:27:16.026214931 +0800
+Change: 2025-11-18 12:58:11.551131171 +0800
  Birth: 2025-04-28 10:30:39.351804500 +0800
 
 On Published Date: 2025-05-03
@@ -32,6 +32,7 @@ On YouTube since : 2025-09-21
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -52,11 +53,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Serene Frequencies 8.2
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-serene-frequencies-8p2
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Serene Frequencies 8.2
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-serene-frequencies-8p2
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-serene-frequencies-8p2
 --------------------------------------------------------------------------------
 ```
 
